@@ -10,4 +10,4 @@
 
 ### Tecnologias Utilizadas
 
-- **C++**: é uma linguagem de programação de propósito geral, baseada em C, que suporta programação orientada a objetos, permitindo a criação de programas mais complexos e organizados. É amplamente utilizada em desenvolvimento de software, jogos, sistemas embarcados e aplicações de alto desempenho. C++ combina recursos de baixo nível e alto nível, proporcionando controle sobre recursos do sistema e abstração.
+- **C++**: É uma linguagem de programação de propósito geral, baseada em C, que suporta programação orientada a objetos, permitindo a criação de programas mais complexos e organizados. É amplamente utilizada em desenvolvimento de software, jogos, sistemas embarcados e aplicações de alto desempenho. C++ combina recursos de baixo nível e alto nível, proporcionando controle sobre recursos do sistema e abstração.
